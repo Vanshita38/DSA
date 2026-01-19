@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vanshita38/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vanshita38/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Vanshita38/DSA/tree/master/0704-binary-search) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Vanshita38/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
