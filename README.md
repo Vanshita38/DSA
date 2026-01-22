@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vanshita38/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Vanshita38/DSA/tree/master/0704-binary-search) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vanshita38/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2951-find-the-peaks](https://github.com/Vanshita38/DSA/tree/master/2951-find-the-peaks) |
 | [3024-type-of-triangle](https://github.com/Vanshita38/DSA/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Vanshita38/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Vanshita38/DSA/tree/master/0283-move-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Vanshita38/DSA/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
