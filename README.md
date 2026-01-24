@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshita38/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Vanshita38/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Vanshita38/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vanshita38/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vanshita38/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshita38/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vanshita38/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshita38/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Vanshita38/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Vanshita38/DSA/tree/master/0268-missing-number) |
