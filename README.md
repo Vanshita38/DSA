@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshita38/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Vanshita38/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Vanshita38/DSA/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vanshita38/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Vanshita38/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Vanshita38/DSA/tree/master/2951-find-the-peaks) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vanshita38/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
