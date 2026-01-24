@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vanshita38/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Vanshita38/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Vanshita38/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vanshita38/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vanshita38/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Vanshita38/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Vanshita38/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Vanshita38/DSA/tree/master/0443-string-compression) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vanshita38/DSA/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Vanshita38/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
