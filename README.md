@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vanshita38/DSA/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshita38/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vanshita38/DSA/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/Vanshita38/DSA/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vanshita38/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/Vanshita38/DSA/tree/master/2951-find-the-peaks) |
 | [3024-type-of-triangle](https://github.com/Vanshita38/DSA/tree/master/3024-type-of-triangle) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vanshita38/DSA/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Vanshita38/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
