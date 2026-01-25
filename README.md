@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshita38/DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Vanshita38/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vanshita38/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Vanshita38/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vanshita38/DSA/tree/master/0048-rotate-image) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshita38/DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Vanshita38/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vanshita38/DSA/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshita38/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Vanshita38/DSA/tree/master/0283-move-zeroes) |
