@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshita38/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vanshita38/DSA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/Vanshita38/DSA/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Vanshita38/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vanshita38/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/Vanshita38/DSA/tree/master/2951-find-the-peaks) |
 | [3024-type-of-triangle](https://github.com/Vanshita38/DSA/tree/master/3024-type-of-triangle) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vanshita38/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanshita38/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vanshita38/DSA/tree/master/0268-missing-number) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Vanshita38/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
