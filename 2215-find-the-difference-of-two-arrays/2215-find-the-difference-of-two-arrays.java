@@ -3,12 +3,18 @@ class Solution {
         List<List<Integer>> list = new ArrayList<>();
         List <Integer> list1 = new ArrayList<>();
         List <Integer> list2 = new ArrayList<>();
-        Map <Integer,Integer> map1 = new HashMap<>();
-        Map <Integer,Integer> map2 = new HashMap<>();
-        for(int e = 0;e<nums1.length;e++) map1.put(nums1[e],e);
-        for(int e = 0;e<nums2.length;e++)  map2.put(nums2[e],e);
-        for(int e = 0;e<nums1.length;e++) if(!(map2.containsKey(nums1[e])) && !(list1.contains(nums1[e]))) list1.add(nums1[e]);
-        for(int e = 0;e<nums2.length;e++)    if(!(map1.containsKey(nums2[e])) && !(list2.contains(nums2[e]))) list2.add(nums2[e]);
+        Set <Integer> set1 = new HashSet<>();
+        Set <Integer> set2 = new HashSet<>();
+        for(int e : nums1) set1.add(e);
+        for(int e : nums2) set2.add(e);
+        for(int e : set1)
+        {
+            if(!(set2.contains(e))) list1.add(e);
+        }
+        for(int e : set2)
+        {
+            if(!(set1.contains(e))) list2.add(e);
+        }
         list.add(list1);
         list.add(list2);
         return list;
