@@ -117,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Vanshita38/DSA/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vanshita38/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vanshita38/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
