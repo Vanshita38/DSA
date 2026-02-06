@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vanshita38/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vanshita38/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vanshita38/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Vanshita38/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vanshita38/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vanshita38/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vanshita38/DSA/tree/master/0238-product-of-array-except-self) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vanshita38/DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Vanshita38/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vanshita38/DSA/tree/master/0268-missing-number) |
 | [3024-type-of-triangle](https://github.com/Vanshita38/DSA/tree/master/3024-type-of-triangle) |
 ## Sorting
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vanshita38/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vanshita38/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vanshita38/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Vanshita38/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vanshita38/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Vanshita38/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vanshita38/DSA/tree/master/0443-string-compression) |
