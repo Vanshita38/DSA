@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vanshita38/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vanshita38/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vanshita38/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/Vanshita38/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshita38/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vanshita38/DSA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/Vanshita38/DSA/tree/master/1929-concatenation-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vanshita38/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vanshita38/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vanshita38/DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Vanshita38/DSA/tree/master/0496-next-greater-element-i) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vanshita38/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Matrix
 |  |
@@ -147,4 +149,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vanshita38/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Vanshita38/DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Vanshita38/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
