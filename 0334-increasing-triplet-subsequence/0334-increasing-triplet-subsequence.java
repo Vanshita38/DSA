@@ -6,8 +6,8 @@ class Solution {
         for(int e = 0;e<nums.length;e++)
         {
             max = nums[e];
-            if(min>max) min = max;
-            else if(middle>max) middle  = max;
+            if(min>=max) min = max;
+            else if(middle>=max) middle  = max;
             else return true;
         }
         return false;
