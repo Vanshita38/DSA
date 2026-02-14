@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vanshita38/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vanshita38/DSA/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Vanshita38/DSA/tree/master/0709-to-lower-case) |
+| [2390-removing-stars-from-a-string](https://github.com/Vanshita38/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Vanshita38/DSA/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Vanshita38/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vanshita38/DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Vanshita38/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Vanshita38/DSA/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/Vanshita38/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
