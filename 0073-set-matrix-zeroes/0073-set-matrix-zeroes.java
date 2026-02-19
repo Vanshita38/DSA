@@ -19,12 +19,10 @@ class Solution {
         for(int i = 0;i<m;i++)
         {
             if(row[i] == 1) for(int a = 0;a<n;a++) matrix[i][a] = 0;
-           // if(col[i] == 1) for(int a = 0;a<m;a++) matrix[a][i] = 0;
         }
          
          for(int i = 0;i<n;i++)
         {
-            //if(row[i] == 1) for(int a = 0;a<n;a++) matrix[i][a] = 0;
             if(col[i] == 1) for(int a = 0;a<m;a++) matrix[a][i] = 0;
         }
     }
