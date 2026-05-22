@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vanshita38/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vanshita38/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vanshita38/DSA/tree/master/0739-daily-temperatures) |
+| [1089-duplicate-zeros](https://github.com/Vanshita38/DSA/tree/master/1089-duplicate-zeros) |
 | [1929-concatenation-of-array](https://github.com/Vanshita38/DSA/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vanshita38/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vanshita38/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vanshita38/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vanshita38/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vanshita38/DSA/tree/master/0443-string-compression) |
+| [1089-duplicate-zeros](https://github.com/Vanshita38/DSA/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Vanshita38/DSA/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
